@@ -1,12 +1,12 @@
-## **TabNine For Spark Studio IDE**
+## **TabNine For Zytric Studio IDE**
 
-**This repository is a placeholder, used to gauge the level of interest of Spark Studio IDE users in a TabNine extension.**
+**This repository is a placeholder, used to gauge the level of interest of Zytric Studio IDE users in a TabNine extension.**
 
 ### **TabNine Overview:**
 
 ---
 
-This is the Spark Studio IDE [TabNine](https://codota.com) client, advanced AI based autocomplete for all programming languages. TabNine Indexes your entire project by reading your `.gitignore` [or others](https://www.tabnine.com/faq#nongit), and determines which files to index.
+This is the Zytric Studio IDE [TabNine](https://codota.com) client, advanced AI based autocomplete for all programming languages. TabNine Indexes your entire project by reading your `.gitignore` [or others](https://www.tabnine.com/faq#nongit), and determines which files to index.
 
 - Enter long variable names using minimal keystrokes and leverage a mnemonic completion engine.
 - Zero configuration. TabNine works out of the box.
